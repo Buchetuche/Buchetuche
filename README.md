@@ -8,7 +8,6 @@ I am a systems engineer, currently working as a semi senior full stack developer
 
 * 🌍  I'm based in Medellín, Antioquia, Colombia
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on In new projects as freenlancer
 * ⚡  I like cats
 
 ### Skills
